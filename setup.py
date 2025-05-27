@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="E2E Medican Chatbot",
+    name="E2E Medical Chatbot",
     version='0.0.0',
     author='Fezan Ahmed',
     author_email='ahmedfezan58@gmail.com',
